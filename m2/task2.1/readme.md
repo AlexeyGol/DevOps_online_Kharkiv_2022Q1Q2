@@ -15,10 +15,10 @@ Xen is relatively cheaper, easier to learn, but has minimal support of USB devic
 
 ### Work with virtualbox
 
-![Shared folder](/Sharedfolder.png)
-![Shaphots](/snapshots.png)
-![USB](/USBmount.png)
-![Vboxmanager CLI](/vboxmanageCLI.png)
-![Vagrant up](/Vagrantup.png)
-![Vagrant Date](/vagrantdate.png)
-![Vagrant own box](/vagrantownbox.png)
+![Shared folder](./Sharedfolder.png)
+![Shaphots](./snapshots.png)
+![USB](./USBmount.png)
+![Vboxmanager CLI](./vboxmanageCLI.png)
+![Vagrant up](./Vagrantup.png)
+![Vagrant Date](./vagrantdate.png)
+![Vagrant own box](./vagrantownbox.png)
