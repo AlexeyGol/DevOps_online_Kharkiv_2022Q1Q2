@@ -5,7 +5,7 @@
 ### Task1.Part1
 
 2. Changing password using passwd command  
-![t1.1](./t1101.png)  
+![t1.1](./t1020.png)  
 Basic parameters of the command are:  
 ![t1.1](./t1021.png)  
 This command interacts with these files:  
