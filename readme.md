@@ -13,9 +13,9 @@
 [Module 3, task 3.3](./m3/task3.3/readme.md)  
 [Module 3, task 3.4](./m3/task3.4/readme.md)  
 ### Module 4 - Linux Essentials
-[Module 4, task 4.1](./m4/task4.1/readme.md)  
-[Module 4, task 4.2](./m4/task4.2/readme.md)  
-[Module 4, task 4.3](./m4/task4.3/readme.md)  
+[Module 4, task 4.1](./m4/Task4.1/readme.md)  
+[Module 4, task 4.2](./m4/Task4.2/readme.md)  
+[Module 4, task 4.3](./m4/Task4.3/readme.md)  
 ### Module 5 - Linux Networking
 [Module 5, task 5.1](./m5/readme.md)
 ### Module 6 - Linux administration with bash
